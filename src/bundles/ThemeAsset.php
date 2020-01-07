@@ -8,7 +8,7 @@
 namespace paskuale75\metronic\bundles;
 
 use Yii;
-use dlds\metronic\Metronic;
+use paskuale75\metronic\Metronic;
 
 class ThemeAsset extends BaseAssetBundle {
 
