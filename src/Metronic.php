@@ -5,7 +5,7 @@
  * @license http://www.digitaldeals.cz/license/
  */
 
-namespace dlds\metronic;
+namespace paskuale75\metronic;
 
 use paskuale75\metronic\bundles\IonRangeSliderAsset;
 use dlds\metronic\traits\HtmlTrait;
@@ -13,7 +13,7 @@ use Yii;
 use yii\helpers\Html;
 use yii\web\AssetBundle;
 use yii\base\InvalidConfigException;
-use dlds\metronic\bundles\ThemeAsset;
+use paskuale75\metronic\bundles\ThemeAsset;
 
 /**
  * This is the class of Metronic Component
